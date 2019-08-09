@@ -13,5 +13,4 @@
         "test.ts"
     ],
     "public": false,
-// MTW has "preferredEditor" and "installedVersion" too
 }
