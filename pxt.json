@@ -1,0 +1,17 @@
+{
+    "name": "pxt-test",
+    "version": "0.0.1",
+    "description": "The Description Field",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+// MTW has "preferredEditor" and "installedVersion" too
+}
